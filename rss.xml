@@ -1,43 +1,43 @@
 <rss version="2.0">
 	<channel>
 		<title>Boston Celtics</title>
-		<link></link>
-		<description></description>
+		<link>https://nikolamalic.github.io/index.html</link>
+		<description>An unofficial site of the Boston Celtics. The site consists of news, lists of current and former players as well as various photos and videos.</description>
 		
 	<item>
 		<title>Roster</title>
-		<link></link>
-		<description></description>
+		<link>https://nikolamalic.github.io/pages/roster.html</link>
+		<description>This page contains the official roster of the 2019-2020 season.</description>
 	</item>
 	
 	<item>
 		<title>History</title>
-		<link></link>
-		<description></description>
+		<link>https://nikolamalic.github.io/pages/history.html</link>
+		<description>This page contains a fan made hall of fame including a list of all 35 players inducted.</description>
 	</item>
 	
 	<item>
 		<title>Hall Of Fame</title>
-		<link></link>
-		<description></description>
+		<link>https://nikolamalic.github.io/pages/halloffame.html</link>
+		<description>This page contains highlights of the greatest players of the celtics franchise.</description>
 	</item>
 	
 	<item>
 		<title>Highlights</title>
-		<link></link>
-		<description></description>
+		<link>https://nikolamalic.github.io/pages/highlights.html</link>
+		<description>This page contains highlights of the greatest players of the celtics franchise.</description>
 	</item>
 	
 	<item>
 		<title>Artwork</title>
-		<link></link>
-		<description></description>
+		<link>https://nikolamalic.github.io/pages/artwork.html</link>
+		<description>This page consists of several fan made wallpapers created to honor players artistically.</description>
 	</item>
 	
 	<item>
 		<title>About Us</title>
-		<link></link>
-		<description></description>
+		<link>https://nikolamalic.github.io/pages/about.html</link>
+		<description>This page contains a brief biography of the author of the site - Nikola Malic</description>
 	</item>
 	</channel>
 </rss>
