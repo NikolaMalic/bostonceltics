@@ -382,6 +382,7 @@ h1:hover{
 	float: right;
 	position: relative;
 	top: -730px;
+	z-index: -1;
 }
 #vesti{
 	display: flex;
