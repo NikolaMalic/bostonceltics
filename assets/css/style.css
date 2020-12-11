@@ -193,6 +193,7 @@ h1:hover{
 #aboutme p{
 	margin: 40px auto;
 	width: 640px;
+	text-align: justify;
 }
 #main3{
 	display: flex;
@@ -417,6 +418,7 @@ h1:hover{
 .vest article{
 	margin-top: 10%;
 	margin-bottom: 7%;
+	text-align: justify;
 }
 footer{
 	display: block;
